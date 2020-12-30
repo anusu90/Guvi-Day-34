@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Which is the highest peak of the World?",
+        "option1": "K2",
+        "option2": "Everest",
+        "option3": "Nanda Devi",
+        "option4": "kanchenjunga",
+        "correctAns": "Everest",
+        "score": "10"
+    },
+    {
+        "question": "Whom did Akbar faught in 2nd Battle of Panipat",
+        "option1": "Sher Shah",
+        "option2": "Hemu",
+        "option3": "Nan Saheb",
+        "option4": "Suja-ud-Daullah",
+        "correctAns": "Hemu",
+        "score": "10"
+    },
+    {
+        "question": "What is the capital of Sri Lanka",
+        "option1": "Columbo",
+        "option2": "Beijing",
+        "option3": "Dhakka",
+        "option4": "New Delhi",
+        "correctAns": "Columbo",
+        "score": "15"
+    },
+    {
+        "question": "Where is the birthplace of Buddha?"
+    },
+
+    {
+        "option1": "Ahom",
+        "option2": "Patliputra",
+        "option3": "Vaishali",
+        "option4": "Lumbini",
+        "correctAns": "Lumbini",
+        "score": "25"
+    }
+
+
+    
+]

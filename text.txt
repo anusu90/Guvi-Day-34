@@ -1,0 +1,8 @@
+Write a API to create a Question
+Write a API to creare a options in particular question by ID
+	- create a json fromat for answer along with score and isCorrect andswer or not
+
+
+Write a api to fetch all the questions and options without showing the correct answer.
+
+Write a API to answer the question by QuestionID and optionID,It should return the option correct or wrong
